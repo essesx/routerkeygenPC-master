@@ -1,0 +1,7 @@
+CMakeLists.txt.user
+linux
+win
+mac
+lang/*.qrc
+lang/*.qm
+build-test-*
